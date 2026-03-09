@@ -3,7 +3,7 @@
 ```diff
 Estudo Ciência da Computação e pretendo ser uma desenvolvedora Full Stack.
 ```
-### **Minhas ferramentas:**
+### **Hard Skills:**
 
 <div style="display: inline_block">
   <img align="center" alt="Betta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
